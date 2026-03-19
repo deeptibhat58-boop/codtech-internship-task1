@@ -1,0 +1,5 @@
+Cloud Storage Details
+Repository: codtech-internship-task1
+Access: Public
+Files: Uploaded
+Permissions: Configured

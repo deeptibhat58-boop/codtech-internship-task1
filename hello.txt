@@ -1,0 +1,6 @@
+CodTech Internship - Task 1
+Name: Deepti Bhat
+Task: Cloud Storage Setup
+Date: 19-03-2026
+Platform: GitHub
+Status: Completed
