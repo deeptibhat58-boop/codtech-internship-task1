@@ -1,0 +1,69 @@
+CODTECH INTERNSHIP - TASK 3
+============================
+MULTI-CLOUD ARCHITECTURE
+============================
+
+NAME: Deepti Bhat
+DATE: 19-03-2026
+TASK: Multi-Cloud Architecture
+
+============================
+OVERVIEW
+============================
+This project demonstrates a 
+Multi-Cloud Architecture where 
+services are distributed across 
+two cloud providers:
+
+CLOUD PROVIDER 1: GitHub
+CLOUD PROVIDER 2: UptimeRobot
+
+============================
+ARCHITECTURE DESIGN
+============================
+
+CLOUD 1 - GitHub:
+- Service: Cloud Storage
+- Repository: codtech-internship-task1
+- Access: Public
+- Files: hello.txt, info.txt
+- URL: github.com/deeptibhat58-boop/
+  codtech-internship-task1
+
+CLOUD 2 - UptimeRobot:
+- Service: Cloud Monitoring
+- Monitor: GitHub Repository
+- Uptime: 100%
+- Alerts: Email notifications
+- Dashboard: Active metrics
+
+============================
+INTEROPERABILITY
+============================
+Both platforms work together:
+
+1. GitHub stores the files
+   (Cloud Storage Service)
+
+2. UptimeRobot monitors GitHub
+   (Cloud Monitoring Service)
+
+3. If GitHub goes down:
+   - UptimeRobot detects it
+   - Sends email alert
+   - Shows on dashboard
+
+This shows INTEROPERABILITY
+between two cloud platforms!
+
+============================
+DELIVERABLE
+============================
+- Cloud 1: GitHub Storage ✅
+- Cloud 2: UptimeRobot Monitor ✅
+- Alerts Configured ✅
+- Dashboard Active ✅
+- Interoperability Shown ✅
+
+STATUS: COMPLETED ✅
+============================
